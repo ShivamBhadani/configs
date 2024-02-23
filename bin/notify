@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ntfy pub sbhadani ${1:-'successful'} >>~/bin/notify.txt

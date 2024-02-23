@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if cmp -s "$1" "$2"; then
+    echo "Files $1 and $2 are identical. Success!"
+else
+    echo "Files $1 and $2 are different. Error!"
+fi
+

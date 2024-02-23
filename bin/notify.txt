@@ -1,0 +1,63 @@
+{"id":"xnYGLH7Apy5g","time":1699517032,"expires":1699560232,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"QV5kGfW69V6W","time":1699517110,"expires":1699560310,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"SvqQJfoc6lPW","time":1699517252,"expires":1699560452,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"1h69mBN8HMmv","time":1699517494,"expires":1699560694,"event":"message","topic":"sbhadani","message":"ll:successfull"}
+{"id":"ISq9MCWWHS7b","time":1699517546,"expires":1699560746,"event":"message","topic":"sbhadani","message":"ll"}
+{"id":"UD8T28AKpWMU","time":1699517557,"expires":1699560757,"event":"message","topic":"sbhadani","message":"triggered"}
+{"id":"sCfdNadlsF2g","time":1699517601,"expires":1699560801,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"UhEqrazyZA3m","time":1699517610,"expires":1699560810,"event":"message","topic":"sbhadani","message":"ll"}
+[?25l[?7l[0m[31m[1m            .-/+oossssoo+\-.
+        ´:+ssssssssssssssssss+:`
+      -+ssssssssssssssssssyyssss+-
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+   /sssssssssss[37m[0m[1mhdmmNNmmyNMMMMh[0m[31m[1mssssss\
+  +sssssssss[37m[0m[1mhm[0m[31m[1myd[37m[0m[1mMMMMMMMNddddy[0m[31m[1mssssssss+
+ /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhmNMMMNh[0m[31m[1mssssssss\
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1mssssssssssssss[37m[0m[1mhmmmh[0m[31m[1mssssssso
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
+ \ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhdNMMMNh[0m[31m[1mssssssss/
+  +sssssssss[37m[0m[1mdm[0m[31m[1myd[37m[0m[1mMMMMMMMMddddy[0m[31m[1mssssssss+
+   \sssssssssss[37m[0m[1mhdmNNNNmyNMMMMh[0m[31m[1mssssss/
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+      -+sssssssssssssssss[37m[0m[1myyy[0m[31m[1mssss+-
+        `:+ssssssssssssssssss+:`
+            .-\+oossssoo+/-.[0m
+[20A[9999999D[43C[0m[1m[31m[1mshivam[0m@[31m[1ms-h-i-v-a-m[0m 
+[43C[0m------------------[0m 
+[43C[0m[31m[1mOS[0m[0m:[0m Ubuntu 22.04.3 LTS on Windows 10.0.22621 x86_64[0m 
+[43C[0m[31m[1mKernel[0m[0m:[0m 5.15.90.1-microsoft-standard-WSL2[0m 
+[43C[0m[31m[1mUptime[0m[0m:[0m 15 hours, 12 mins[0m 
+[43C[0m[31m[1mPackages[0m[0m:[0m 725 (dpkg), 48 (brew)[0m 
+[43C[0m[31m[1mShell[0m[0m:[0m bash 5.1.16[0m 
+[43C[0m[31m[1mTheme[0m[0m:[0m Adwaita [GTK3][0m 
+[43C[0m[31m[1mIcons[0m[0m:[0m Adwaita [GTK3][0m 
+[43C[0m[31m[1mTerminal[0m[0m:[0m Windows Terminal[0m 
+[43C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 7 5800H with Radeon Graphics (16) @ 3.193GHz[0m 
+[43C[0m[31m[1mGPU[0m[0m:[0m Microsoft Corporation Device 008e[0m 
+[43C[0m[31m[1mMemory[0m[0m:[0m 870MiB / 7642MiB[0m 
+
+[43C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[43C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+
+
+
+[?25h[?7h{"id":"7hO8fK7wsdXY","time":1699534351,"expires":1699577551,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"xYrj1psxy4wa","time":1699558631,"expires":1699601831,"event":"message","topic":"sbhadani","message":"hi"}
+{"id":"7EaZf2DmCwOU","time":1699558860,"expires":1699602060,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"KoLhLFdfhhu9","time":1699561339,"expires":1699604539,"event":"message","topic":"sbhadani","message":"helloo"}
+{"id":"ntQXN4JWzgmW","time":1699587684,"expires":1699630884,"event":"message","topic":"sbhadani","message":"goodmorning"}
+{"id":"zSX09pnU0HWr","time":1699718258,"expires":1699761458,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"VK1slYacTTWj","time":1699718273,"expires":1699761473,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"UfoC4sXw3Zia","time":1699852446,"expires":1699895646,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"grC5vpKVHzwI","time":1700465908,"expires":1700509108,"event":"message","topic":"sbhadani","message":"hello"}
+{"id":"y5bsoNMgT0CJ","time":1700465989,"expires":1700509189,"event":"message","topic":"sbhadani","message":"done"}
+{"id":"vfOfjzC6wgFy","time":1700466040,"expires":1700509240,"event":"message","topic":"sbhadani","message":"done"}
+{"id":"atVADwd3Nen6","time":1700817642,"expires":1700860842,"event":"message","topic":"sbhadani","message":"successful"}
+{"id":"hA6Do1zbIiwW","time":1700817847,"expires":1700861047,"event":"message","topic":"sbhadani","message":"hh"}
+{"id":"QzlUS0UxRiHN","time":1701782903,"expires":1701826103,"event":"message","topic":"sbhadani","message":"successful"}

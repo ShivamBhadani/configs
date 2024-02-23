@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+
+print("Enter text (press Ctrl+D on a new line to finish):")
+
+input_text = ""
+try:
+    while True:
+        line = input()
+        input_text += line + '\n'
+except EOFError:
+    pass  # Catch Ctrl+D (EOF) to exit the loop
+
+print("You entered:")
+print(input_text)
+
